@@ -14,7 +14,7 @@ const btn = document.querySelector("#btn");
 
 
 title.style.color = "red"
-title.style.backgroundColor = "green" 
+title.style.backgroundColor = "blue" 
 // console.log({   title }) 
 btn.innerText = "button"
 console.log(title, list, items) 
